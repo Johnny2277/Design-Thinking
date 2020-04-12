@@ -14,3 +14,6 @@ password:546568
 
 video link:
 https://youtu.be/FmMI2Xd5zrk
+
+Practice URL:
+https://docs.google.com/spreadsheets/d/1kDFFitP0j6o1MKgLuu6xs5dAZH2mqzrptaewHHRj5YM/edit#gid=1023255946
